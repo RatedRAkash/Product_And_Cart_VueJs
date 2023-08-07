@@ -5,9 +5,9 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development in Custom Port
 ```
-npm run serve
+npm run serve -- --port 7007
 ```
 
 ### Compiles and minifies for production
